@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "ts-node src/index.ts",
+    "install": "ts-node -T src/schema.ts",
     "dev": "ts-node-dev --respawn src/schema.ts"
   },
   "keywords": [],
