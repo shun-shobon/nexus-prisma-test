@@ -7,7 +7,7 @@
 1. Cloneする
 1. `pnpm install`
 1. `pnpx prisma migrate dev --preview-feature`
-1. `pnpm run`
+1. `pnpm start`
 
 ## 開発時
 
